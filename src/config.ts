@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Instagram",
-			icon: "mdi:instagram", // Visit https://icones.js.org/ for icon codes
+			icon: "fe:instagram", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://www.instagram.com/zackzheng1121/",
