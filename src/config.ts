@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Instagram",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			icon: "mdi:instagram", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://www.instagram.com/zackzheng1121/",
@@ -76,8 +76,13 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Discord",
-			icon: "fa6-brands:github",
+			icon: "ic:baseline-discord",
 			url: "https://discord.gg/bHvHT2Sz",
+		},
+		{
+			name: "BiliBili",
+			icon: "streamline-ultimate:bilibili-logo-bold",
+			url: "https://space.bilibili.com/1998276963?spm_id_from=333.1007.0.0",
 		},
 	],
 };
