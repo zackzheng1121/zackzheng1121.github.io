@@ -1,9 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
-
+這是一個小DEV/wmc/遊戲玩家的blog
+其他我就不知道怎麼寫了()，可以去我的github看看(但大部分都是之前亂fork的())
+本blog使用的是(fuwari)[https://github.com/saicaca/fuwari] 的網頁模板
+::github{repo="zackzheng1121/zackzheng1121.github.io"}
 ::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+本網站使用(Github Pages)[https://pages.github.com/] 部屬
