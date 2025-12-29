@@ -2,7 +2,7 @@
 title: 一天一CTF
 published: 2025-12-29
 description: 一天一個CTF，持續努力!
-image: https://
+image: 
 tags: [CTF, 資安]
 category: 網路安全
 draft: false
