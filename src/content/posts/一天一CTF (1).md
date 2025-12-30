@@ -668,6 +668,7 @@ picoCTF{trust_but_verify_87590c24}
 picoCTF{5tRIng5_1T_FB7D7Bb6}
 ```
 ![image](https://hackmd.io/_uploads/HyqGiluXWl.png)
+
 ## Day 15 2025/12/24-picoCTF fixme2.py
 ![image](https://hackmd.io/_uploads/SJ-cYLFmZl.png)
 `fixme2.py`:
@@ -725,6 +726,7 @@ if flag == "":
 ```
 所以把原本是指定意義的=再加上去一個就可以正常判斷了!
 基本上所有程式都是這樣判斷的
+
 ## Day 16  2025/12/25-picoCTF Unminify
 btw聖誕節快樂
 ![image](https://hackmd.io/_uploads/Bypj9o5X-g.png)
@@ -739,6 +741,7 @@ btw聖誕節快樂
 picoCTF{pr3tty_c0d3_622b2c88}
 ```
 ![image](https://hackmd.io/_uploads/HkuNsjqXbx.png)
+
 ## Day 17  2025/12/26-picoCTF First Find
 ![image](https://hackmd.io/_uploads/HJge5gn7We.png)
 `files.zip`:![image](https://hackmd.io/_uploads/r1bz9g3Xbg.png)
@@ -804,6 +807,8 @@ picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}
 ```
  ![image](https://hackmd.io/_uploads/B151QayNZx.png)
 > 文章要換地方了 hackmd->zackzheng's blog
+
+
 ## Day 21  2025/12/30-picoCTF PW Crack 1
 <img width="950" height="746" alt="image" src="https://github.com/user-attachments/assets/6f802ac3-9e5b-4025-b004-3fe79a95d070" />
 先用vscode打開資料夾
@@ -818,7 +823,9 @@ picoCTF{545h_r1ng1ng_1b2fd683}
 ```
 
 <img width="619" height="108" alt="image" src="https://github.com/user-attachments/assets/af11e4c5-864a-4c8d-9f54-59943c60e2b0" />
-### picoCTF WebDecode
+
+
+## Day 21  2025/12/30-picoCTF PW Crack 1
 <img width="960" height="710" alt="image" src="https://github.com/user-attachments/assets/04d99dfd-2f0e-4ff4-8d7b-a9bc84458467" />
 <img width="1915" height="947" alt="image" src="https://github.com/user-attachments/assets/41695d15-bbbd-46b3-a6f7-01abb92de160" />
 右鍵-檢查
