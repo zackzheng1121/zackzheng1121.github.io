@@ -818,7 +818,7 @@ picoCTF{545h_r1ng1ng_1b2fd683}
 ```
 
 <img width="619" height="108" alt="image" src="https://github.com/user-attachments/assets/af11e4c5-864a-4c8d-9f54-59943c60e2b0" />
-## Day 21  2025/12/30-picoCTF WebDecode
+### picoCTF WebDecode
 <img width="960" height="710" alt="image" src="https://github.com/user-attachments/assets/04d99dfd-2f0e-4ff4-8d7b-a9bc84458467" />
 <img width="1915" height="947" alt="image" src="https://github.com/user-attachments/assets/41695d15-bbbd-46b3-a6f7-01abb92de160" />
 右鍵-檢查
