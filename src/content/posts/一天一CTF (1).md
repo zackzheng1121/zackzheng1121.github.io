@@ -818,6 +818,22 @@ picoCTF{545h_r1ng1ng_1b2fd683}
 ```
 
 <img width="619" height="108" alt="image" src="https://github.com/user-attachments/assets/af11e4c5-864a-4c8d-9f54-59943c60e2b0" />
+## Day 21  2025/12/30-picoCTF WebDecode
+<img width="960" height="710" alt="image" src="https://github.com/user-attachments/assets/04d99dfd-2f0e-4ff4-8d7b-a9bc84458467" />
+<img width="1915" height="947" alt="image" src="https://github.com/user-attachments/assets/41695d15-bbbd-46b3-a6f7-01abb92de160" />
+右鍵-檢查
+你應該會在 `about` 看到怪怪的東西
+<img width="1897" height="936" alt="image" src="https://github.com/user-attachments/assets/2a8b3fa5-68cd-4509-9a54-a2acbeb5a1cc" />
+
+**這絕對是base64**
+
+<img width="1027" height="766" alt="image" src="https://github.com/user-attachments/assets/a55efff4-8098-4039-9d53-12d5c56279a6" />
+
+```
+picoCTF{web_succ3ssfully_d3c0ded_10f9376f}
+```
+
+<img width="128" height="59" alt="image" src="https://github.com/user-attachments/assets/7242233a-1507-4039-a0e9-6594db197541" />
 
 ## Day 22  2025/12/31-picoCTF
 ## Day 23  2026/1/1-picoCTF
