@@ -1,4 +1,4 @@
----
+<img width="1117" height="93" alt="image" src="https://github.com/user-attachments/assets/bfd02739-ed42-4e0b-b0b2-d48072364798" />---
 title: 一天一CTF
 published: 2025-12-29
 description: 一天一個CTF，持續努力!
@@ -804,7 +804,21 @@ picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}
 ```
  ![image](https://hackmd.io/_uploads/B151QayNZx.png)
 > 文章要換地方了 hackmd->zackzheng's blog
-## Day 21  2025/12/30-picoCTF
+## Day 21  2025/12/30-picoCTF PW Crack 1
+<img width="950" height="746" alt="image" src="https://github.com/user-attachments/assets/6f802ac3-9e5b-4025-b004-3fe79a95d070" />
+先用vscode打開資料夾
+<img width="321" height="200" alt="image" src="https://github.com/user-attachments/assets/5a516e9a-a435-454f-bb67-f3a4873b11c4" />
+然後執行 `level1.py`
+<img width="1117" height="93" alt="image" src="https://github.com/user-attachments/assets/b16129f6-6403-4e51-acca-2d2e12d2fb80" />
+密碼是8713
+<img width="1005" height="123" alt="image" src="https://github.com/user-attachments/assets/4cf8703f-77da-460f-94af-e08689061bb6" />
+
+```
+picoCTF{545h_r1ng1ng_1b2fd683}
+```
+
+<img width="619" height="108" alt="image" src="https://github.com/user-attachments/assets/af11e4c5-864a-4c8d-9f54-59943c60e2b0" />
+
 ## Day 22  2025/12/31-picoCTF
 ## Day 23  2026/1/1-picoCTF
 ## Day 24  2026/1/2-picoCTF
