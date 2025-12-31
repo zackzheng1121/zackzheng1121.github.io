@@ -844,10 +844,13 @@ picoCTF{web_succ3ssfully_d3c0ded_10f9376f}
 
 ## Day 22  2025/12/31-picoCTF Crack the Gate 1
 <img width="921" height="870" alt="image" src="https://github.com/user-attachments/assets/e4d73f18-18fa-4eca-a8ac-74e3d93a7db2" />
+
 右鍵檢查發現了怪東西
 <img width="655" height="59" alt="image" src="https://github.com/user-attachments/assets/6f564daa-1592-4521-ab96-d493d619d068" />
+
 問ai他說這是ROT13
 <img width="1058" height="362" alt="image" src="https://github.com/user-attachments/assets/f346ab01-0f4e-4360-b363-bc646619564b" />
+
 後來看了[這篇筆記](http://medium.com/@mugehajacky/crack-the-gate-1-picoctf-79d8a2983a23)
 先使用 `curl -H "X-Dev-Access: yes" http://amiable-citadel.picoctf.net:54937/` 找標頭
 <img width="897" height="976" alt="image" src="https://github.com/user-attachments/assets/1f7976e2-70ed-4818-9269-b30ba102bc25" />
@@ -856,11 +859,15 @@ picoCTF{web_succ3ssfully_d3c0ded_10f9376f}
   -H "Content-Type: application/json" \
   -d '{"email":"ctf-player@picoctf.org","password":"whatever"}' \
   "http://amiable-citadel.picoctf.net:53947/login"`
+  
 <img width="1837" height="445" alt="image" src="https://github.com/user-attachments/assets/3eae1d50-b143-4abf-aba9-1546e96efa19" />
+
 ```
 picoCTF{brut4_f0rc4_7e5db33b}
 ```
+
 <img width="596" height="123" alt="image" src="https://github.com/user-attachments/assets/5c725876-079d-438c-b683-eb21955b6e44" />
+
 2026新年快樂!
 
 ## Day 23  2026/1/1-picoCTF
