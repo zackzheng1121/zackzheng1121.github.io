@@ -870,5 +870,31 @@ picoCTF{brut4_f0rc4_7e5db33b}
 
 2026新年快樂!
 
-## Day 23  2026/1/1-picoCTF
+## Day 23  2026/1/1-picoCTF Flags
+
+<img width="935" height="809" alt="image" src="https://github.com/user-attachments/assets/0d449c51-5c43-4a99-a5ca-51e2c1dd5f9e" />
+
+`flag.png`:
+
+<img width="821" height="548" alt="flag" src="https://github.com/user-attachments/assets/d97c3c4b-e26e-4c80-8b50-65d8a2b2d5e2" />
+
+這是用國際信號旗加密的
+
+資料來源:[國際信號旗-維基百科](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E9%9A%9B%E4%BF%A1%E8%99%9F%E6%97%97#%E5%AD%97%E6%AF%8D%E6%97%97%E8%99%9F)
+
+<img width="418" height="838" alt="image" src="https://github.com/user-attachments/assets/24d0abac-4527-4ba3-a854-9f16f3cf2e5a" />
+
+這是我解出來的結果:
+
+<img width="269" height="91" alt="image" src="https://github.com/user-attachments/assets/c6db9e09-3f2a-4db9-9b15-bdc60d66b24b" />
+
+
+
+```
+picoCTF{F1AG5AND5TUFF}
+```
+
+<img width="609" height="133" alt="image" src="https://github.com/user-attachments/assets/b2e11235-ae1b-4b89-acbc-31b5935bcaa0" />
+
+
 ## Day 24  2026/1/2-picoCTF
