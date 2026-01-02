@@ -897,4 +897,30 @@ picoCTF{F1AG5AND5TUFF}
 <img width="609" height="133" alt="image" src="https://github.com/user-attachments/assets/b2e11235-ae1b-4b89-acbc-31b5935bcaa0" />
 
 
-## Day 24  2026/1/2-picoCTF
+## Day 24  2026/1/2-picoCTF Cookie Monster Secret Recipe
+
+<img width="935" height="923" alt="image" src="https://github.com/user-attachments/assets/4574d9b8-fdd4-4b11-a0a6-fb4588220597" />
+
+先輸入帳號密碼
+
+<img width="1002" height="540" alt="image" src="https://github.com/user-attachments/assets/66860f8c-e28b-4dc8-aeb2-3ca29085b6ca" />
+
+進到這個畫面右鍵檢查
+
+<img width="648" height="349" alt="image" src="https://github.com/user-attachments/assets/5f660d5c-16b0-4741-b444-2880f008caae" />
+
+`應用程式-coookie` 點開下面所顯示的 `http...`
+
+把顯示已編碼的網址打開
+
+<img width="449" height="468" alt="image" src="https://github.com/user-attachments/assets/93952f02-470b-4a65-a714-34bc01a91a4c" />
+
+base64，轉換下
+
+<img width="1287" height="613" alt="image" src="https://github.com/user-attachments/assets/60b35c2c-eac6-4652-9f92-a5103a7d3e77" />
+
+```
+picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}
+```
+
+<img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/b6f667c9-e5ae-4e44-a32f-4d90f854fe49" />
