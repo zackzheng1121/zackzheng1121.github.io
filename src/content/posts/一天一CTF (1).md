@@ -923,4 +923,23 @@ base64，轉換下
 picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}
 ```
 
+
 <img width="595" height="133" alt="image" src="https://github.com/user-attachments/assets/b6f667c9-e5ae-4e44-a32f-4d90f854fe49" />
+
+
+## Day 25 2026/1/3-picoCTF IntroToBurp
+
+<img width="945" height="644" alt="image" src="https://github.com/user-attachments/assets/0940f584-4a17-47ba-bbae-1da1e5004cb1" />
+ 
+參考[picoCTF Web Exploitation: IntroToBurp](https://medium.com/@Kamal_S/picoctf-web-exploitation-introtoburp-a2b50bf8e985) 所解的
+
+<img width="1906" height="1004" alt="image" src="https://github.com/user-attachments/assets/446ff7ee-2ddc-41a3-b68a-b142def92907" />
+
+
+找到post包
+
+<img width="521" height="27" alt="image" src="https://github.com/user-attachments/assets/15cee006-9c1c-427a-bb78-51e04e023073" />
+
+
+
+
