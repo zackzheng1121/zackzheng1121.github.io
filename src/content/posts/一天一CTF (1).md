@@ -940,6 +940,21 @@ picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}
 
 <img width="521" height="27" alt="image" src="https://github.com/user-attachments/assets/15cee006-9c1c-427a-bb78-51e04e023073" />
 
+點開
+把opt刪掉
+
+<img width="1453" height="372" alt="image" src="https://github.com/user-attachments/assets/3be3fba3-c055-4a4a-a728-8217354e5915" />
+
+
+然後點左上角第二顆橘色的按鈕
+
+<img width="1017" height="82" alt="image" src="https://github.com/user-attachments/assets/fc54c04f-09fd-46f3-b3dc-765284c84ecd" />
+
+```
+ picoCTF{#0TP_Bypvss_SuCc3$S_b3fa4f1a}
+```
+
+<img width="606" height="106" alt="image" src="https://github.com/user-attachments/assets/3d3e25c9-7394-43d6-860a-fc6660baa405" />
 
 
 
