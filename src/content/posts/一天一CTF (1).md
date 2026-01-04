@@ -1,4 +1,4 @@
-<img width="332" height="678" alt="image" src="https://github.com/user-attachments/assets/34c38404-4f35-4e46-a9ed-c54fb476c209" />---
+---
 title: 一天一CTF
 published: 2025-12-29
 description: 一天一個CTF，持續努力!
