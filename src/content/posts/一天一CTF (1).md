@@ -1,4 +1,4 @@
----
+<img width="332" height="678" alt="image" src="https://github.com/user-attachments/assets/34c38404-4f35-4e46-a9ed-c54fb476c209" />---
 title: 一天一CTF
 published: 2025-12-29
 description: 一天一個CTF，持續努力!
@@ -956,5 +956,23 @@ picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}
 
 <img width="606" height="106" alt="image" src="https://github.com/user-attachments/assets/3d3e25c9-7394-43d6-860a-fc6660baa405" />
 
+
+## Day26 2026/1/4-picoCTF ASCII Numbers
+
+<img width="965" height="754" alt="image" src="https://github.com/user-attachments/assets/ff8f1132-a60e-4246-9fd1-68b15262d135" />
+
+使用[對照表](https://www.litefeel.com/tools/ascii.php) 來轉換
+
+<img width="332" height="678" alt="image" src="https://github.com/user-attachments/assets/a656265b-cf7b-4e31-a05a-c34a7a20a399" />
+
+~~或像我一樣給ai解~~
+
+<img width="878" height="689" alt="image" src="https://github.com/user-attachments/assets/8cfcebf8-7edc-4940-83cc-5a2fa46131c5" />
+
+```
+picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}
+```
+
+<img width="602" height="135" alt="image" src="https://github.com/user-attachments/assets/21a9a4e9-51eb-4197-9497-e61544f069be" />
 
 
