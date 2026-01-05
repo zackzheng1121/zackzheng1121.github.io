@@ -975,4 +975,25 @@ picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}
 
 <img width="602" height="135" alt="image" src="https://github.com/user-attachments/assets/21a9a4e9-51eb-4197-9497-e61544f069be" />
 
+## Day 27 2026/1/5-picoCTF Bookmarklet
+
+<img width="947" height="757" alt="image" src="https://github.com/user-attachments/assets/73d70f30-45ce-40c1-a5c7-bb5d1f65a718" />
+
+<img width="1720" height="592" alt="image" src="https://github.com/user-attachments/assets/34cdc1cc-c099-44b3-a64f-aa55bbe49419" />
+
+直接把程式碼複製起來到 [線上編譯器](https://www.programiz.com/javascript/online-compiler/) 上跑
+
+<img width="838" height="338" alt="image" src="https://github.com/user-attachments/assets/bb803196-68a9-436e-a919-1f173c1ae8cd" />
+
+點Run
+
+<img width="330" height="154" alt="image" src="https://github.com/user-attachments/assets/05d39ffb-85c1-44cd-8a47-f7c555903aec" />
+
+```
+picoCTF{p@g3_turn3r_0c0d211f}
+```
+
+<img width="607" height="106" alt="image" src="https://github.com/user-attachments/assets/926de35f-18e6-4552-a878-1341394e57d6" />
+
+
 
