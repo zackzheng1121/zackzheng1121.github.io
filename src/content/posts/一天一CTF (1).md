@@ -995,5 +995,51 @@ picoCTF{p@g3_turn3r_0c0d211f}
 
 <img width="607" height="106" alt="image" src="https://github.com/user-attachments/assets/926de35f-18e6-4552-a878-1341394e57d6" />
 
+## Day 28 2026/1/6-picoCTF Local Authority
+
+
+<img width="938" height="821" alt="image" src="https://github.com/user-attachments/assets/f2c9b8d8-bc37-4773-9e52-26c120e173d0" />
+
+ 
+這題我一開始看了[picoCTF Web Exploitation: Local Authority picoCTF-Kamal S](https://medium.com/@Kamal_S/picoctf-web-exploitation-local-authority-21064e2d718e) 的write up，後來發現沒有他提到的`secure.js`，於是google找到了[JoeYang-picoCTF 2024 Write up](https://hackmd.io/@JoeYang/SyQMzdxaR#Local-Authority) ，在參考下成功解決了問題
+
+首先先登錄進去
+
+
+<img width="532" height="251" alt="image" src="https://github.com/user-attachments/assets/cfc3090e-c2c5-466f-aab2-caa9d49c013c" />
+
+
+當顯示 `Log In Failed` 時，右鍵檢查
+
+把這個`hidden`先去掉
+
+
+<img width="627" height="55" alt="image" src="https://github.com/user-attachments/assets/0654b284-ea3b-4046-9145-351baff3ad5d" />
+
+
+
+出現了一個textbox(~~抱歉C#後遺症~~)
+
+<img width="259" height="114" alt="image" src="https://github.com/user-attachments/assets/11a17a05-d698-4eec-bf06-9df3126d098d" />
+
+然後再看看檢查，有一個`type="text/javascript"`，展開來看看
+
+往下滑發現這個東西:`2196812e91c29df34f5e217cfd639881`
+
+<img width="379" height="46" alt="image" src="https://github.com/user-attachments/assets/1dd6349f-698e-435c-8fd4-03501c2b7b5b" />
+
+直覺(和別人的wirteup)告訴我這不單純，要貼到文字框
+
+<img width="262" height="144" alt="image" src="https://github.com/user-attachments/assets/ff1cf1f3-0c99-4fec-8b20-c03366bf8826" />
+
+<img width="439" height="132" alt="image" src="https://github.com/user-attachments/assets/6087fbf5-6914-463c-8bfb-7366bd15f4fc" />
+
+```
+picoCTF{j5_15_7r4n5p4r3n7_b0c2c9cb}
+```
+
+<img width="605" height="83" alt="image" src="https://github.com/user-attachments/assets/5e0f5947-d18a-4adf-baed-330813d87c72" />
+
+> 菜菜 撈撈 嗚嗚
 
 
