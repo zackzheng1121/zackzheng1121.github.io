@@ -8,9 +8,9 @@ draft: false
 ---
 
 > [!IMPORTANT]
-> 理論上所有文章**都有標記來源**。但如果您認為*使用截圖公開文章部分內容或引用方式不太妥當可能會對您造成影響*，請透過 Discord 聯繫我：`zackzheng_online`。收到訊息後，我會刪除所引用的圖片，並會在您的意見下重新考慮是否要繼續引用您的文章，之後也會尊重您的決定。
+> 理論上所有文章**都有標記來源**。但如果您認為*使用截圖公開文章部分內容或引用方式不太妥當可能會對您造成影響*，請透過 Discord 聯繫我：`zackzheng_online`。收到訊息後，我會刪除所引用的圖片或文章，並會在您的意見下重新考慮是否要繼續引用您的文章，之後也會尊重您的決定。
 > 
-> In principle, all articles **include source attribution**. However, if you think that *sharing screenshots of part of an article or the way it’s cited could be inappropriate and affect you*, please contact me on Discord: `zackzheng_online`. Once I receive your message, I will remove the referenced images and reconsider whether to continue citing your article, and I will also respect your decision moving forward.
+> In principle, all articles **include source attribution**. However, if you think that *sharing screenshots of part of an article or the way it’s cited could be inappropriate and affect you*, please contact me on Discord: `zackzheng_online`. Once I receive your message, I will remove the referenced images or articles and reconsider whether to continue citing your article, and I will also respect your decision moving forward.
 
 
 
