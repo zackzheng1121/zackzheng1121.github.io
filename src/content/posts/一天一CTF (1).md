@@ -7,6 +7,14 @@ category: 網路安全
 draft: false
 ---
 
+> [!IMPORTANT]
+> 理論上所有文章**都有標記來源**，但如果您認為*公布文章部分內容會對您產生影響*，請使用discord聯繫我:`zackzheng_online`，我收到訊息後會刪除所引用的圖片
+> 
+> In principle, all articles **include source attribution**. However, if you believe that *publishing part of an article could affect you*, please contact me on Discord:`zackzheng_online`. Once I receive your message, I will remove the referenced images.
+
+
+
+
 
 > 第一步是你必須說：「我辦得到」 — 威爾.史密斯
 > 
@@ -1042,4 +1050,99 @@ picoCTF{j5_15_7r4n5p4r3n7_b0c2c9cb}
 
 > 菜菜 撈撈 嗚嗚
 
+## Day 29 2026/1/7-picoCTF Scavenger Hunt 
 
+<img width="949" height="789" alt="image" src="https://github.com/user-attachments/assets/8af8dde3-d6d0-43a6-b4d2-4f6538d785f9" />
+
+首先在網頁右鍵-`檢視網頁原始碼`
+
+<img width="1222" height="1031" alt="image" src="https://github.com/user-attachments/assets/df2b53e0-0168-41f3-bfad-36085680584e" />
+
+就能找到flag的頭:`picoCTF{t`
+
+<img width="624" height="40" alt="image" src="https://github.com/user-attachments/assets/785850b4-5b66-44c8-9790-800243e7b343" />
+
+然後我們看一下網頁的`what`
+
+<img width="468" height="228" alt="image" src="https://github.com/user-attachments/assets/f5438c80-13bc-429a-bb7e-46cbaf65a042" />
+
+右鍵-`檢查-原始碼`把網頁(一朵雲)點開應該會看到這些檔案
+
+<img width="272" height="153" alt="image" src="https://github.com/user-attachments/assets/fec8743c-6be3-4959-82a1-361cddd22113" />
+
+
+點開`myjs.js`會看到這個:`/* How can I keep Google from indexing my website? */`
+
+<img width="377" height="132" alt="image" src="https://github.com/user-attachments/assets/7a7cbb06-9123-4e5e-8871-52d4c37afc36" />
+
+
+然後點開`mycss.css`:
+應該會出現第二個flag的部分:`/* CSS makes the page look nice, and yes, it also has part of the flag. Here's part 2: h4ts_4_l0 */`
+
+<img width="348" height="102" alt="image" src="https://github.com/user-attachments/assets/f76f841a-f609-4321-b7b1-961527afe873" />
+
+第三個呢?記得`myjs.js`的`/* How can I keep Google from indexing my website? */`嗎?
+
+我試圖用我在[Google for Developers-更新 robots.txt 檔案](https://developers.google.com/crawling/docs/robots-txt/submit-updated-robots-txt?hl=zh-tw#refresh-googles-robots.txt-cache)的下載 robots.txt 檔案中運行cur的指令:
+```bash
+curl https://example.com/robots.txt -o robots.txt
+```
+
+<img width="1345" height="465" alt="image" src="https://github.com/user-attachments/assets/1613c873-e6b3-4d59-aa60-0dfedea1a117" />
+
+結果呢....
+
+<img width="893" height="160" alt="image" src="https://github.com/user-attachments/assets/f02e35d1-4636-49ed-b182-22245710655d" />
+
+```bash
+User-agent: *
+Disallow: /index.html
+# Part 3: t_0f_pl4c
+# I think this is an apache server... can you Access the next flag?
+```
+
+> [!NOTE]
+> 其實我一開始打錯了...打成 `...\robot.txt`，難怪404
+> <img width="1110" height="279" alt="image" src="https://github.com/user-attachments/assets/592507b6-4964-46e0-83e8-1338ffe2a9c1" />
+
+耶可以組成flag了...嗎?
+```
+picoCTF{th4ts_4_l0t_0f_pl4c
+```
+我們還差尾端沒有出來
+等等....`apache?Access?`
+算了看看別人最後怎麼解
+
+我看了[Koro的Scavenger Hunt: picoCTF](https://medium.com/@tolentinojesusanthony/scavenger-hunt-picoctf-dc37004ed0e3)
+
+<img width="634" height="568" alt="image" src="https://github.com/user-attachments/assets/d3587fc6-8c1a-4920-a8e6-22709fe73be9" />
+
+來試試看
+
+第一個把`curl`後面的/改成 `/.htaccess` 
+```bash
+┌──(zackzheng㉿zackzheng-98)-[~]
+└─$ curl http://wily-courier.picoctf.net:58558/.htaccess
+# Part 4: 3s_2_lO0k
+# I love making websites on my Mac, I can Store a lot of information there.
+```
+
+```
+picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k
+```
+
+試試看第二個:`/.DS_Store`:
+
+```bash
+┌──(zackzheng㉿zackzheng-98)-[~]
+└─$ curl http://wily-courier.picoctf.net:58558/.DS_Store
+Congrats! You've completed the scavenger hunt! Part 5: _9588550}
+```
+那完整的flag就是:
+```
+picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_9588550}
+```
+
+<img width="593" height="133" alt="image" src="https://github.com/user-attachments/assets/675aa46c-acaa-4669-9eeb-e27096c303e4" />
+
+耶
