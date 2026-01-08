@@ -1146,3 +1146,28 @@ picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_9588550}
 <img width="593" height="133" alt="image" src="https://github.com/user-attachments/assets/675aa46c-acaa-4669-9eeb-e27096c303e4" />
 
 耶
+
+## Day 30 2026/1/8-picoCTF where are the robots
+
+<img width="946" height="771" alt="image" src="https://github.com/user-attachments/assets/5349eb6b-2254-4c93-b672-6e481bd79cbb" />
+
+<img width="1167" height="444" alt="image" src="https://github.com/user-attachments/assets/6ae802c0-be25-4b37-b9be-074adf68480f" />
+
+根據昨天的經驗，我們要找的是`robots.txt`，但這次我選擇直接加在網頁後面
+
+<img width="313" height="42" alt="image" src="https://github.com/user-attachments/assets/4b772cef-5776-4418-bfa9-ea3ece705c39" />
+
+然後會顯示:
+
+<img width="300" height="90" alt="image" src="https://github.com/user-attachments/assets/404b988e-2c0f-4c48-84b5-27da9b0887bc" />
+
+下面出現了一個html檔案，我們連過去試試看
+
+
+<img width="1021" height="263" alt="image" src="https://github.com/user-attachments/assets/df43d780-bf38-41f4-9171-d6113dc7a68c" />
+
+```
+picoCTF{ca1cu1at1ng_Mach1n3s_cc6b1}
+```
+
+<img width="579" height="130" alt="image" src="https://github.com/user-attachments/assets/ad5aea85-ef96-4712-b308-85ff40346098" />
