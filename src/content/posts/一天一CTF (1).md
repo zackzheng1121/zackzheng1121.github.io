@@ -1171,3 +1171,33 @@ picoCTF{ca1cu1at1ng_Mach1n3s_cc6b1}
 ```
 
 <img width="579" height="130" alt="image" src="https://github.com/user-attachments/assets/ad5aea85-ef96-4712-b308-85ff40346098" />
+
+## Day 31 2026/1/9-picoCTF Wave a flag
+~~來個炸魚題~~
+
+<img width="957" height="794" alt="image" src="https://github.com/user-attachments/assets/5f80adcb-b3d7-4671-9d92-7896dd297d6b" />
+
+先使用linux `wget https://challenge-files.picoctf.net/c_wily_courier/89a0e56b3f2697fe5d597b2805202b86693dcb0e04aec062e11fe66edbbd04aa/warm`
+
+<img width="1484" height="346" alt="image" src="https://github.com/user-attachments/assets/d6ab611b-533b-4f12-80f7-c6406d026d52" />
+
+然後設定權限(不然沒辦法執行)
+`chmod +x warm`
+
+<img width="443" height="74" alt="image" src="https://github.com/user-attachments/assets/6e0f8fdf-26dd-42a2-baf2-021192be93aa" />
+
+接下來執行腳本:`./warm`
+
+<img width="627" height="90" alt="image" src="https://github.com/user-attachments/assets/6f285853-4f9e-4cc2-b285-e291683c18c6" />
+
+然後`./warm -h`
+
+<img width="1360" height="111" alt="image" src="https://github.com/user-attachments/assets/c2faf6f2-078d-4e0d-838c-7f06aadb920e" />
+
+```
+picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}
+```
+
+<img width="597" height="129" alt="image" src="https://github.com/user-attachments/assets/cba2084c-b405-4808-9867-97363640d218" />
+
+話說有沒有其他的CTF練習平台阿，不太想一直做picoCTF
