@@ -1201,3 +1201,23 @@ picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}
 <img width="597" height="129" alt="image" src="https://github.com/user-attachments/assets/cba2084c-b405-4808-9867-97363640d218" />
 
 話說有沒有其他的CTF練習平台阿，不太想一直做picoCTF
+
+
+## Day 32 2026/1/10-CTFLEARN Morse Code
+
+<img width="985" height="789" alt="image" src="https://github.com/user-attachments/assets/e8a123ae-9e28-4915-a311-9c034db0402a" />
+
+這很簡單，直接找個轉換器
+我用的是[Morse code converter 摩斯密碼翻譯器](https://codepen.io/ylin/full/GevPbN)
+
+<img width="1193" height="820" alt="image" src="https://github.com/user-attachments/assets/7b5a77b8-e30c-44ca-9903-d6f3935e49a1" />
+
+出現的就是flag了(~~沒意思~~)
+
+```
+FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES
+```
+
+
+<img width="713" height="145" alt="image" src="https://github.com/user-attachments/assets/c750beb7-1674-49f8-9560-8f6ed10c5e15" />
+
