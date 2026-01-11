@@ -1221,3 +1221,22 @@ FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES
 
 <img width="713" height="145" alt="image" src="https://github.com/user-attachments/assets/c750beb7-1674-49f8-9560-8f6ed10c5e15" />
 
+
+## Day 33 2026/1/11-CTFLEARN Base 2 2 the 6
+
+<img width="838" height="226" alt="image" src="https://github.com/user-attachments/assets/108ae19e-a8b4-4e23-9955-fe41509b9e18" />
+
+其實 `Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9` 這段編碼是base64...我想說哪來的base2和base6
+
+使用[base64decode.org](https://www.base64decode.org/) 來解碼
+
+<img width="1721" height="923" alt="image" src="https://github.com/user-attachments/assets/1d7c8b22-ea79-4cf9-99f1-e99b3ef4e702" />
+
+<img width="1230" height="297" alt="image" src="https://github.com/user-attachments/assets/f098f179-af6d-4685-a4cf-9ab132b5fcf7" />
+
+```
+CTF{FlaggyWaggyRaggy}
+```
+
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/28e1d439-2c13-423a-8d74-a8e60f56751c" />
+
