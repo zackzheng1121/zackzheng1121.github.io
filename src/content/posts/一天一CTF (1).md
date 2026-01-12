@@ -1240,3 +1240,24 @@ CTF{FlaggyWaggyRaggy}
 
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/28e1d439-2c13-423a-8d74-a8e60f56751c" />
 
+
+## Day 34 2026/1/12-CTFLEARN Vigenere Cipher
+
+<img width="794" height="670" alt="image" src="https://github.com/user-attachments/assets/6236f701-9b75-40f8-a2d4-4b97dac81512" />
+
+直接使用[dcode](https://www.dcode.fr/vigenere-cipher)
+
+<img width="1012" height="653" alt="image" src="https://github.com/user-attachments/assets/6028305b-5c9e-441e-b070-6012c4ee3a27" />
+
+`nowing the Key/Password:blorpy`
+
+然後點Decrypt
+
+<img width="446" height="153" alt="image" src="https://github.com/user-attachments/assets/9bba9513-89c8-448e-8e32-57b99c668930" />
+
+```
+flag{CiphersAreAwesome}
+```
+
+<img width="832" height="678" alt="image" src="https://github.com/user-attachments/assets/ec595823-c449-449a-9ca7-748e8fa71967" />
+
