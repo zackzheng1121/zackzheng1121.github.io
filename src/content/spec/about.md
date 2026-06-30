@@ -1,5 +1,5 @@
 # About
-這是一個小DEV/wmc/遊戲玩家的blog
+這是一個資安學者/CTF Player/小DEV/wmc/遊戲玩家的blog
 
 其他我就不知道怎麼寫了()，可以去我的github看看(但大部分都是之前亂fork的())
 
@@ -9,4 +9,3 @@
 
 ::github{repo="saicaca/fuwari"}
 
-本網站使用 [Github Pages](https://pages.github.com/) 部屬
